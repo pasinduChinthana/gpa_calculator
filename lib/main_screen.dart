@@ -10,4 +10,8 @@ void main()
 
   print("Enter your current study level");
   String studyLevel = stdin.readLineSync();
+
+  print("Do you need to calculate last academic year GPA?")
+  String isLastAcademicYear = stdin.readLineSync();
+
 }
