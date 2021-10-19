@@ -3,10 +3,11 @@ import 'dart:io';
 
 void main()
 {
-  print("Enter your University ID?");
-  // Reading name of the Geek
-  String name = stdin.readLineSync();
+  print("Enter your University ID");
+  String universityId = stdin.readLineSync();
 
-  // Printing the name
-  print("Hello, $name! \nWelcome to GPA Calculator!!");
+  print("Hello, $universityId! \nWelcome to GPA Calculator!!");
+
+  print("Enter your current study level");
+  String studyLevel = stdin.readLineSync();
 }
