@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:gpa_calculator/screens/configure_grade_points_screen.dart';
 
 class CreateProfileScreen extends StatefulWidget {
   const CreateProfileScreen({Key? key}) : super(key: key);
@@ -59,7 +60,10 @@ class _CreateProfileScreenState extends State<CreateProfileScreen> {
                     alignment: Alignment.centerRight,
                     child: ElevatedButton(
                       onPressed: (){
-
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => const ConfigureGradePointsScreen()),
+                        );
                       },
                       child: const Text('Next')
                     ),
