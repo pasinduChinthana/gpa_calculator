@@ -39,6 +39,25 @@ there are simple three steps You need to follow
 
 Lets see how these simple steps works in action
 
+Add Your Letter Grade
+
+To calculate your GPA, you can use either your current letter grade or a grade estimate. You can obtain your grade by contacting your instructor, who will most likely be pleased to provide you with your grade prior to the final report card. You can estimate and choose a grade for the grades you can't check. On a 4.0 scale, grades can range from A+ to F. Select a letter grade from the drop-down menu for each class.
+
+Add Your Class Credits
+
+For each class, enter the grade and credit obtained. For example, if you received an A in a four-credit class, type 4 in the box next to the letter A. Both weighted and unweighted high school classes can be added. On the GPA scale, your weighted classes gain bonus points. Unweighted classes are standard classes with no bonus points.
+
+ Calculate Your GPA
+ 
+Your cumulative GPA is calculated and displayed at the bottom of the class list below. It's that simple to add another semester button! As you add letter grades and class weight, the semester GPA and aggregate cumulative GPA will update at the bottom of the page. You can calculate the aggregate and per semester weighted GPA by adding numerous semesters. If you follow these steps, you'll be well on your way to making your own report card.
+ 
+ 
+
+
+
+
+
+
 
 
 
