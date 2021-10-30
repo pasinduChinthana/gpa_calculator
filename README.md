@@ -50,6 +50,19 @@ For each class, enter the grade and credit obtained. For example, if you receive
  Calculate Your GPA
  
 Your cumulative GPA is calculated and displayed at the bottom of the class list below. It's that simple to add another semester button! As you add letter grades and class weight, the semester GPA and aggregate cumulative GPA will update at the bottom of the page. You can calculate the aggregate and per semester weighted GPA by adding numerous semesters. If you follow these steps, you'll be well on your way to making your own report card.
+
+You can keep track of your GPA throughout the year to see if you're on pace to meet your educational objectives. When you calculate your cumulative GPA, the feedback you receive will tell you if you need to change your study habits for assignments, reviews, and examinations.
+
+#Commonly Asked Questions (FAQs):
+
+Q: Are P/NP (Pass/No Pass) courses taken into consideration? No, P/NP (Pass/No Pass) courses are not taken into account when calculating a student's GPA.
+
+Q: Are grade points awarded for I (Incompletes) and W (Withdrawals)? No, it isn't. I (Incompletes) and W (Withdrawals) do not earn grade points and have no bearing on your GPA.
+
+Q: How can I figure out the cost of AP or Honors courses? A: Grade points are often weighted while taking AP (advanced placement) or honors courses. For honors courses, a half point (.50) is added, and for AP courses, a full point (1.0) is added (A then equals 4.50 for an Honors class, or 5.00 for an Advanced Placement class). For additional information about your college's grading system, contact them directly. Schools may assign point values differently.
+
+Q:I have an extremely poor grade point average. What can I do to raise my GPA? A:You can figure out what GPA you'll need in the final to enhance your GPA using this app.
+
  
  
 
