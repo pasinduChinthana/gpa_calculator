@@ -1,5 +1,6 @@
 # GPA Calculator (Android)
 
+
 An advanced gpa calculator for university undergraduates
 
 ## Introduction
@@ -62,17 +63,4 @@ Q: Are grade points awarded for I (Incompletes) and W (Withdrawals)? No, it isn'
 Q: How can I figure out the cost of AP or Honors courses? A: Grade points are often weighted while taking AP (advanced placement) or honors courses. For honors courses, a half point (.50) is added, and for AP courses, a full point (1.0) is added (A then equals 4.50 for an Honors class, or 5.00 for an Advanced Placement class). For additional information about your college's grading system, contact them directly. Schools may assign point values differently.
 
 Q:I have an extremely poor grade point average. What can I do to raise my GPA? A:You can figure out what GPA you'll need in the final to enhance your GPA using this app.
-
- 
- 
-
-
-
-
-
-
-
-
-
-
 
