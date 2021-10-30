@@ -10,7 +10,7 @@ Undergraduates need to keep track of their GPA and make decision when choosing f
 There are many GPA calculators available in the internet but they doesn't support custom grade point configurations. But this application enables user to add their custom grade point configuration based on their university.
 
 
-Default Grade Point Configurations
+## Default Grade Point Configurations
 
 - A+ 85 - 100
 - A  75 - 84
@@ -24,7 +24,7 @@ Default Grade Point Configurations
 - D  35 - 39
 - E  0 - 34
 
-##How GPA is calculated in general
+## How GPA is calculated in general
 
 The entire number of grade points obtained is divided by the total number of credit hours attempted to compute your grade point average (GPA). Your grade point average could be anywhere between 0.0 and 4.0. The total grade points are divided by the number credit hours attempted to calculate the GPA of the example student.
 
@@ -40,21 +40,21 @@ there are simple three steps You need to follow
 
 Lets see how these simple steps works in action
 
-Add Your Letter Grade
+### Add Your Letter Grade
 
 To calculate your GPA, you can use either your current letter grade or a grade estimate. You can obtain your grade by contacting your instructor, who will most likely be pleased to provide you with your grade prior to the final report card. You can estimate and choose a grade for the grades you can't check. On a 4.0 scale, grades can range from A+ to F. Select a letter grade from the drop-down menu for each class.
 
-Add Your Class Credits
+### Add Your Class Credits
 
 For each class, enter the grade and credit obtained. For example, if you received an A in a four-credit class, type 4 in the box next to the letter A. Both weighted and unweighted high school classes can be added. On the GPA scale, your weighted classes gain bonus points. Unweighted classes are standard classes with no bonus points.
 
- Calculate Your GPA
+### Calculate Your GPA
  
 Your cumulative GPA is calculated and displayed at the bottom of the class list below. It's that simple to add another semester button! As you add letter grades and class weight, the semester GPA and aggregate cumulative GPA will update at the bottom of the page. You can calculate the aggregate and per semester weighted GPA by adding numerous semesters. If you follow these steps, you'll be well on your way to making your own report card.
 
 You can keep track of your GPA throughout the year to see if you're on pace to meet your educational objectives. When you calculate your cumulative GPA, the feedback you receive will tell you if you need to change your study habits for assignments, reviews, and examinations.
 
-#Commonly Asked Questions (FAQs):
+# Commonly Asked Questions (FAQs):
 
 Q: Are P/NP (Pass/No Pass) courses taken into consideration? No, P/NP (Pass/No Pass) courses are not taken into account when calculating a student's GPA.
 
