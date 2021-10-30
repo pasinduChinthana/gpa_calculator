@@ -29,15 +29,7 @@ The entire number of grade points obtained is divided by the total number of cre
 
 Please keep in mind that this grading method varies each university. A dynamic calulation mechanism comes in handy in this situation.
 
-##How our solution work
 
-there are simple three steps You need to follow
-
-1. Add Your Letter Grade
-2. Add Your Class Credits
-3. Calculate Your GPA
-
-Lets see how these simple steps works in action
 
 
 
